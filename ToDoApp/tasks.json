@@ -1,0 +1,18 @@
+[
+  {
+    "Description": "mow the lawn",
+    "IsCompleted": false
+  },
+  {
+    "Description": "water the plants",
+    "IsCompleted": true
+  },
+  {
+    "Description": "write the email",
+    "IsCompleted": false
+  },
+  {
+    "Description": "drive the car to the mechanic",
+    "IsCompleted": true
+  }
+]
